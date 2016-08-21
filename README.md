@@ -18,10 +18,11 @@ for whatever reason you weren't able to finish yesterday's assignment, there is
 some starter code in the root of this repo that you can work off of.
 
 Just like yesterday, you will be implementing a series of changes to your site,
-and making commits that adhere to the [Commit Guidelines](./commit-guidelines.md)
-after each one. If you choose to use the starter code we've provided instead of
-your previous work, your first commit tonight should be replacing your old files
-with these new ones.
+and making commits after each one. Also just like yesterday, you **must** use
+`git commit` rather than `git commit -m` to make your commits, and you should
+try as much as possible to adhere to the Commit Guidelines below. If you choose
+to use the starter code we've provided instead of your previous work, your first
+commit tonight should be replacing your old files with these new ones.
 
 Ready? Let's get started.
 
