@@ -1,10 +1,10 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Homework : Coding With Git, Continued
+# Homework : Using Git, Continued
 
 <!-- MATERIALS METADATA -->
 <!--
-  title: 'Using Git'
+  title: 'Using Git, Continued'
   type: homework
   duration: ??
   creators: Matt Brendzel
@@ -71,7 +71,7 @@ how to implement these steps. Fortunately, both the
 have content on CSS. Another good resource is
 [CSS-Tricks.com](https://css-tricks.com/).
 
-### Reach Features
+### Reach Targets
 
 > NOTE: Do not attempt until every other objective is met.
 
