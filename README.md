@@ -89,4 +89,5 @@ night's homework, so all you need to do us push your code up to GitHub
 (`git push origin master`) once you finish your work, and then create an issue
 on the `wdi-remote-...` repo as you did before. Remember, the title should be
 "YourGitHubUsername -- Week XX Day XX", and it should contain a link that points
-to the repo on GitHub that holds your work.
+to the repo on GitHub that holds your work and a 'comfort' score from 1 to 5
+for your understanding of the material (no automated tests today either).
