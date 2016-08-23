@@ -16,7 +16,7 @@
 Just like yesterday, you will be implementing a series of changes to a website,
 and making commits after each one. Also just like yesterday, you **must** use
 `git commit` rather than `git commit -m` to make your commits, and you should
-try as much as possible to adhere to the Commit Guidelines below.
+try as much as possible to adhere to the [Commit Guidelines](./commit-guidelines.md).
 
 Some HTML files have been provided for you to start off with -- these should
 roughly match what you submitted yesterday.
