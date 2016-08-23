@@ -13,16 +13,13 @@
 
 ## Directions
 
-We'll be doing more work on `example-git-project` for tonight's homework; if
-for whatever reason you weren't able to finish yesterday's assignment, there is
-some starter code in the root of this repo that you can work off of.
-
-Just like yesterday, you will be implementing a series of changes to your site,
+Just like yesterday, you will be implementing a series of changes to a website,
 and making commits after each one. Also just like yesterday, you **must** use
 `git commit` rather than `git commit -m` to make your commits, and you should
-try as much as possible to adhere to the Commit Guidelines below. If you choose
-to use the starter code we've provided instead of your previous work, your first
-commit tonight should be replacing your old files with these new ones.
+try as much as possible to adhere to the Commit Guidelines below.
+
+Some HTML files have been provided for you to start off with -- these should
+roughly match what you submitted yesterday.
 
 Ready? Let's get started.
 
@@ -84,10 +81,10 @@ Make a commit after refactoring your CSS to use these more advanced selectors.
 
 ## Submission
 
-For tonight's homework, you're just modifying the repo that was used for last
-night's homework, so all you need to do us push your code up to GitHub
-(`git push origin master`) once you finish your work, and then create an issue
-on the `wdi-remote-...` repo as you did before. Remember, the title should be
-"YourGitHubUsername -- Week XX Day XX", and it should contain a link that points
-to the repo on GitHub that holds your work and a 'comfort' score from 1 to 5
-for your understanding of the material (no automated tests today either).
+Push your code up to GitHub `git push origin master`) once you finish your work,
+and then create an issue on the `wdi-remote-r2d2` repo as you did before.
+
+Remember, the title should be "YourGitHubUsername -- Week XX Day XX", and it
+should contain a link that points to the repo on GitHub that holds your work and
+a 'comfort' score from 1 to 5 indicating how comfortable you feel with the
+material.
